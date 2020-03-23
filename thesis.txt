@@ -1,2 +1,3 @@
 # My thesis on the research I have done on nanodiscs
-# Author Kerrie Morrison
+# Author: Kerrie Morrison
+# Supervisors: Karen Edler, Paul Whitley, Greth Price, James Doutch, Luke Clifton
